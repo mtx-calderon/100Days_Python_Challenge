@@ -7,4 +7,3 @@ final = ( (bill * (tip/100)+bill) / people )
 print("each person should pay: \n")
 final = round(final,2)
 print(final)
-
