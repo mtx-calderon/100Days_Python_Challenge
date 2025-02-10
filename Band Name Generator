@@ -1,4 +1,4 @@
 print("Welcome to the band name generator")
 city = (input("Whats the name of the city you grew up in?\n"))
 petname = (input("whats your pets name?\nl"))
-print("your bands name is: " + city + petname)
+print("your bands name is: " + city + petname) #concat strings
